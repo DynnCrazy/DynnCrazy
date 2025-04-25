@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# HI, My name is Dyn Crazy
+# HI, my name is Dyn Crazy
 ### About Me :
 - Saya berasal dari Bali, Indonesia
 - Saya baru belajar tentang pemograman
